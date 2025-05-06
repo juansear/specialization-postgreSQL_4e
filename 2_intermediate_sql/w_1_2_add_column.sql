@@ -1,0 +1,2 @@
+ALTER TABLE pg4e_debug 
+ADD neon773 INTEGER;
